@@ -1,3 +1,5 @@
+#just trying to use git 
+
 import netCDF4 as nc4
 from netCDF4 import Dataset
 from netCDF4 import num2date, date2num
